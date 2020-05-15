@@ -1,0 +1,4 @@
+/home/kodiak/Documents/k8s-demo/sa-webapp/src/main/java/com/sa/web/SentimentController.java
+/home/kodiak/Documents/k8s-demo/sa-webapp/src/main/java/com/sa/web/dto/SentimentDto.java
+/home/kodiak/Documents/k8s-demo/sa-webapp/src/main/java/com/sa/web/SentimentAnalysisWebApp.java
+/home/kodiak/Documents/k8s-demo/sa-webapp/src/main/java/com/sa/web/dto/SentenceDto.java
