@@ -1,0 +1,7 @@
+# tao image ubuntu co ban
+
+FROM ubuntu
+
+Run echo "Image is being built..."
+
+CMD ["echo", "This is a image"]
